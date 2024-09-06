@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Omar Rasin</h1>
+<h1 align="center">Hi 👋 , I'm Muhammad Omar Rasin</h1>
 <h3 align="center">A Grade-10 programming enthusiast</h3>
 
 <p align="left"> 
