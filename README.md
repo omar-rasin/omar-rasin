@@ -9,12 +9,13 @@
 I'm a high school student passionate about coding, currently learning and improving my skills in:
 
 - **Languages**: C, Java, OOP Concepts
-- **Current Project**: [Slam-Dunk Basketball Team Management System](https://github.com/omar-rasin/slam-dunk)
+- **Completed Project**: [Slam-Dunk Basketball Team Management System](https://github.com/omar-rasin/slam-dunk)
 - Tracking my progress through GitHub, stay tuned for more!
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+
 
 ---
 
