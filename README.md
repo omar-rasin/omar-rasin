@@ -1,4 +1,4 @@
-# Hey, I'm Muhammad Omar Rasin! 👋
+# Hi, I'm Muhammad Omar Rasin! 👋
 
 🚀 *Aspiring Software Developer* | *Grade-10 programming enthusiast* 💻
 
