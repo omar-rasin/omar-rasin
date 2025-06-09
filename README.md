@@ -2,15 +2,6 @@
 
 🚀 *Aspiring Software Developer* | *Grade-10 programming enthusiast* 💻
 
----
-
-## 🚧 **Work in Progress** 🚧
-
-I'm a high school student passionate about coding, currently learning and improving my skills in:
-
-- **Languages**: C, Java, OOP Concepts
-- **Completed Project**: [Slam-Dunk Basketball Team Management System](https://github.com/omar-rasin/slam-dunk)
-- Tracking my progress through GitHub, stay tuned for more!
 
 ---
 
